@@ -1,0 +1,1 @@
+# Contoh-Karakter-Yang-Tidak-Dinisialisasi
